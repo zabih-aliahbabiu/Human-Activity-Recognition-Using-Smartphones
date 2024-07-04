@@ -20,4 +20,5 @@
 
 عندها سيتم تحميل البيانات وإنشاء الملف tidy_dataset.txt الذي يحتوي على مجموعة البيانات المُرتبة.
 
+جميع البرامج والتعليمات النصية المكتوبة موجودة في
 https://github.com/zabih-aliahbabiu/Human-Activity-Recognition-Using-Smartphones

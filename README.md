@@ -19,3 +19,5 @@
 تم تحميل البيانات من http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 عندها سيتم تحميل البيانات وإنشاء الملف tidy_dataset.txt الذي يحتوي على مجموعة البيانات المُرتبة.
+
+https://github.com/zabih-aliahbabiu/Human-Activity-Recognition-Using-Smartphones
